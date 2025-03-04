@@ -5,11 +5,11 @@ This is a starter Foundry template made for developers building on MegaETH.
 ## Getting Started
 Install the Mega CLI if you don't have it already
 ```shell
-npm install -g mega-cli
+npm install -g megaeth-cli
 #or
-pnpm add -g mega-cli
+pnpm add -g megaeth-cli
 #or
-yarn global add mega-cli
+yarn global add megaeth-cli
 ```
 
 Start a local blockchain node using this command:
